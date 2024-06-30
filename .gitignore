@@ -1,2 +1,5 @@
 /cuda-env
 /Datasets
+*.pth
+*.rar
+/Einstein
