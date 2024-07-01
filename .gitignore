@@ -3,3 +3,5 @@
 *.pth
 *.rar
 /Einstein
+*.png
+ModelTrainingCheckpoint
